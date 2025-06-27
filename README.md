@@ -1,0 +1,1 @@
+J’utilise la bibliothèque YOLOv11 pour détecter les personnes. À partir du théorème de Thalès et de la trigonométrie, je parviens donc a en déduire une direction et un angle de la personne par rapport a la camera ce code n'ai pas du tout préssi a moins de 2 mètre.
